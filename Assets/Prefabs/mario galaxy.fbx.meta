@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: c3b1cab8fc878449fb63aa1fa1ba48cf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: mario
+    100002: //RootNode
+    100004: mario_All_Root
+    100006: mario_ArmL1
+    100008: mario_ArmL1_dummy
+    100010: mario_ArmL2
+    100012: mario_ArmL2_dummy
+    100014: mario_ArmR1
+    100016: mario_ArmR1_dummy
+    100018: mario_ArmR2
+    100020: mario_ArmR2_dummy
+    100022: mario_Cap0
+    100024: mario_CapPosition
+    100026: mario_Center
+    100028: mario_Center_dummy
+    100030: mario_Eye0
+    100032: mario_EyePosition
+    100034: mario_Face0
+    100036: mario_FacePosition
+    100038: mario_FootL
+    100040: mario_FootL_dummy
+    100042: mario_FootR
+    100044: mario_FootR_dummy
+    100046: mario_HandL
+    100048: mario_HandL0
+    100050: mario_HandL_dummy
+    100052: mario_HandR
+    100054: mario_HandR0
+    100056: mario_HandR_dummy
+    100058: mario_Head
+    100060: mario_Head_dummy
+    100062: mario_Hip
+    100064: mario_JointRoot
+    100066: mario_LegL1
+    100068: mario_LegL1_dummy
+    100070: mario_LegL2
+    100072: mario_LegL2_dummy
+    100074: mario_LegR1
+    100076: mario_LegR1_dummy
+    100078: mario_LegR2
+    100080: mario_LegR2_dummy
+    100082: mario_PartsControl
+    100084: mario_PartsControl_dummy
+    100086: mario_ShoulderL
+    100088: mario_ShoulderR
+    100090: mario_Spine1
+    100092: mario_Spine1_dummy
+    100094: mario_Spine2
+    100096: mario_Spine2_dummy
+    100098: Point001
+    400000: mario
+    400002: //RootNode
+    400004: mario_All_Root
+    400006: mario_ArmL1
+    400008: mario_ArmL1_dummy
+    400010: mario_ArmL2
+    400012: mario_ArmL2_dummy
+    400014: mario_ArmR1
+    400016: mario_ArmR1_dummy
+    400018: mario_ArmR2
+    400020: mario_ArmR2_dummy
+    400022: mario_Cap0
+    400024: mario_CapPosition
+    400026: mario_Center
+    400028: mario_Center_dummy
+    400030: mario_Eye0
+    400032: mario_EyePosition
+    400034: mario_Face0
+    400036: mario_FacePosition
+    400038: mario_FootL
+    400040: mario_FootL_dummy
+    400042: mario_FootR
+    400044: mario_FootR_dummy
+    400046: mario_HandL
+    400048: mario_HandL0
+    400050: mario_HandL_dummy
+    400052: mario_HandR
+    400054: mario_HandR0
+    400056: mario_HandR_dummy
+    400058: mario_Head
+    400060: mario_Head_dummy
+    400062: mario_Hip
+    400064: mario_JointRoot
+    400066: mario_LegL1
+    400068: mario_LegL1_dummy
+    400070: mario_LegL2
+    400072: mario_LegL2_dummy
+    400074: mario_LegR1
+    400076: mario_LegR1_dummy
+    400078: mario_LegR2
+    400080: mario_LegR2_dummy
+    400082: mario_PartsControl
+    400084: mario_PartsControl_dummy
+    400086: mario_ShoulderL
+    400088: mario_ShoulderR
+    400090: mario_Spine1
+    400092: mario_Spine1_dummy
+    400094: mario_Spine2
+    400096: mario_Spine2_dummy
+    400098: Point001
+    4300000: mario
+    7400000: run
+    7400002: jump
+    7400004: dead
+    7400006: stand
+    9500000: //RootNode
+    13700000: mario
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_v
+    second: {fileID: 2100000, guid: 57c925875f49e4040b9489a63627ec60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap_v
+    second: {fileID: 2100000, guid: 5fe192aa218ce4634a53b9810f7bfb93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeLid_v
+    second: {fileID: 2100000, guid: 1fdd650313b7f43d988ff63a1cd823b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeballL_v
+    second: {fileID: 2100000, guid: 1e03765b94f634b6f98e24161c763c64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeballR_v
+    second: {fileID: 2100000, guid: 1e03765b94f634b6f98e24161c763c64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face_v
+    second: {fileID: 2100000, guid: 460206ac58c834e8fa31ef7f998e0809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_v
+    second: {fileID: 2100000, guid: 10bf12460461f4131a6f9868989d04db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_v
+    second: {fileID: 2100000, guid: 7ca02b6f8849840a08607ccc0ba88c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_v(2)
+    second: {fileID: 2100000, guid: 7ca02b6f8849840a08607ccc0ba88c4f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'mario galaxy original' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'mario_Spine1_dummy' has translation
+      animation that will be discarded.\n\t'mario_Spine1' has scale animation that
+      will be discarded.\n\t'mario_Spine2_dummy' has translation animation that will
+      be discarded.\n\t'mario_Spine2' has scale animation that will be discarded.\n\t'mario_Head_dummy'
+      has translation animation that will be discarded.\n\t'mario_Head' has scale
+      animation that will be discarded.\n\t'mario_EyePosition' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'mario_ArmL1_dummy'
+      has translation animation that will be discarded.\n\t'mario_ArmL1' has scale
+      animation that will be discarded.\n\t'mario_ArmL2' has scale animation that
+      will be discarded.\n\t'mario_HandL_dummy' has translation animation that will
+      be discarded.\n\t'mario_HandL' has scale animation that will be discarded.\n\t'mario_ArmR1_dummy'
+      has translation animation that will be discarded.\n\t'mario_ArmR1' has scale
+      animation that will be discarded.\n\t'mario_ArmR2' has scale animation that
+      will be discarded.\n\t'mario_HandR_dummy' has translation animation that will
+      be discarded.\n\t'mario_HandR' has scale animation that will be discarded.\n\t'mario_Hip'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'mario_LegL1_dummy'
+      has translation animation that will be discarded.\n\t'mario_LegL1' has scale
+      animation that will be discarded.\n\t'mario_LegL2_dummy' has translation animation
+      that will be discarded.\n\t'mario_LegL2' has scale animation that will be discarded.\n\t'mario_FootL_dummy'
+      has translation animation that will be discarded.\n\t'mario_FootL' has scale
+      animation that will be discarded.\n\t'mario_LegR1_dummy' has translation animation
+      that will be discarded.\n\t'mario_LegR1' has scale animation that will be discarded.\n\t'mario_LegR2_dummy'
+      has translation animation that will be discarded.\n\t'mario_LegR2' has scale
+      animation that will be discarded.\n\t'mario_FootR_dummy' has translation animation
+      that will be discarded.\n\t'mario_FootR' has scale animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: mario galaxy original
+      firstFrame: 24000
+      lastFrame: 24030
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mario
+        weight: 0
+      - path: Point001
+        weight: 1
+      - path: Point001/mario_All_Root
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2/mario_FootL_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2/mario_FootL_dummy/mario_FootL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2/mario_FootR_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2/mario_FootR_dummy/mario_FootR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_CapPosition
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_CapPosition/mario_Cap0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_EyePosition
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_EyePosition/mario_Eye0
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_FacePosition
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_FacePosition/mario_Face0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy/mario_HandL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy/mario_HandL/mario_HandL0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy/mario_HandR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy/mario_HandR/mario_HandR0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_PartsControl_dummy
+        weight: 0
+      - path: Point001/mario_All_Root/mario_PartsControl_dummy/mario_PartsControl
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: mario galaxy original
+      firstFrame: 31184
+      lastFrame: 31238.002
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mario
+        weight: 0
+      - path: Point001
+        weight: 1
+      - path: Point001/mario_All_Root
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2/mario_FootL_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2/mario_FootL_dummy/mario_FootL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2/mario_FootR_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2/mario_FootR_dummy/mario_FootR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_CapPosition
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_CapPosition/mario_Cap0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_EyePosition
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_EyePosition/mario_Eye0
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_FacePosition
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_FacePosition/mario_Face0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy/mario_HandL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy/mario_HandL/mario_HandL0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy/mario_HandR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy/mario_HandR/mario_HandR0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_PartsControl_dummy
+        weight: 0
+      - path: Point001/mario_All_Root/mario_PartsControl_dummy/mario_PartsControl
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dead
+      takeName: mario galaxy original
+      firstFrame: 3750
+      lastFrame: 3879.9998
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mario
+        weight: 0
+      - path: Point001
+        weight: 1
+      - path: Point001/mario_All_Root
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2/mario_FootL_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2/mario_FootL_dummy/mario_FootL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2/mario_FootR_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2/mario_FootR_dummy/mario_FootR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_CapPosition
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_CapPosition/mario_Cap0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_EyePosition
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_EyePosition/mario_Eye0
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_FacePosition
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_FacePosition/mario_Face0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy/mario_HandL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy/mario_HandL/mario_HandL0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy/mario_HandR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy/mario_HandR/mario_HandR0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_PartsControl_dummy
+        weight: 0
+      - path: Point001/mario_All_Root/mario_PartsControl_dummy/mario_PartsControl
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: stand
+      takeName: mario galaxy original
+      firstFrame: 23026
+      lastFrame: 23350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mario
+        weight: 0
+      - path: Point001
+        weight: 1
+      - path: Point001/mario_All_Root
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2/mario_FootL_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegL1_dummy/mario_LegL1/mario_LegL2_dummy/mario_LegL2/mario_FootL_dummy/mario_FootL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2/mario_FootR_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Hip/mario_LegR1_dummy/mario_LegR1/mario_LegR2_dummy/mario_LegR2/mario_FootR_dummy/mario_FootR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_CapPosition
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_CapPosition/mario_Cap0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_EyePosition
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_EyePosition/mario_Eye0
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_FacePosition
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_Head_dummy/mario_Head/mario_FacePosition/mario_Face0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy/mario_HandL
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderL/mario_ArmL1_dummy/mario_ArmL1/mario_ArmL2_dummy/mario_ArmL2/mario_HandL_dummy/mario_HandL/mario_HandL0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy/mario_HandR
+        weight: 1
+      - path: Point001/mario_All_Root/mario_Center_dummy/mario_Center/mario_JointRoot/mario_Spine1_dummy/mario_Spine1/mario_Spine2_dummy/mario_Spine2/mario_ShoulderR/mario_ArmR1_dummy/mario_ArmR1/mario_ArmR2_dummy/mario_ArmR2/mario_HandR_dummy/mario_HandR/mario_HandR0
+        weight: 0
+      - path: Point001/mario_All_Root/mario_PartsControl_dummy
+        weight: 0
+      - path: Point001/mario_All_Root/mario_PartsControl_dummy/mario_PartsControl
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: mario_JointRoot
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_LegL1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_LegR1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_LegL2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_LegR2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_FootL
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_FootR
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ShoulderL
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ShoulderR
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ArmL1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ArmR1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ArmL2
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_ArmR2
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_HandL
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_HandR
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mario_Eye0
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mario galaxy(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Point001
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_All_Root
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Center_dummy
+      parentName: 
+      position: {x: -0, y: 0.59499997, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Center
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_JointRoot
+      parentName: 
+      position: {x: 0, y: -0.12865299, z: -0.03999999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Spine1_dummy
+      parentName: 
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Spine1
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.49995205, z: -0.5, w: 0.500048}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Spine2_dummy
+      parentName: 
+      position: {x: -0.13, y: 0, z: 0}
+      rotation: {x: -1.9828453e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Spine2
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -1.9828453e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Head_dummy
+      parentName: 
+      position: {x: -0.23999985, y: 0, z: 0}
+      rotation: {x: -1.9828453e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_Head
+      parentName: 
+      position: {x: -0.000000076293944, y: 0, z: 0}
+      rotation: {x: 0.00027057444, y: -0.0002027702, z: -0.7070588, w: 0.7071547}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_CapPosition
+      parentName: 
+      position: {x: -0, y: -0.00000015258789, z: -7.4505804e-11}
+      rotation: {x: 0.7071068, y: -0.000027847836, z: -0.7071068, w: -0.000027847836}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: mario_Cap0
+      parentName: 
+      position: {x: -0.00000007646158, y: 0.0004192352, z: -0.00045128106}
+      rotation: {x: -0.0000338547, y: 0.000081777885, z: -0.000009057146, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: mario_EyePosition
+      parentName: 
+      position: {x: -0, y: -0.00000015258789, z: -7.4505804e-11}
+      rotation: {x: 0.7071068, y: -0.000027847836, z: -0.7071068, w: -0.000027847836}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: mario_Eye0
+      parentName: 
+      position: {x: -0.000010620746, y: -0.9599972, z: 0.040065188}
+      rotation: {x: -0.0000338547, y: 0.000081777885, z: -0.000009057146, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: mario_FacePosition
+      parentName: 
+      position: {x: -0, y: -0.00000015258789, z: -7.4505804e-11}
+      rotation: {x: 0.7071068, y: -0.000027847836, z: -0.7071068, w: -0.000027847836}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: mario_Face0
+      parentName: 
+      position: {x: -0.000000010123476, y: 0.000000076293944, z: -0.0000000047683715}
+      rotation: {x: -0.0000338547, y: 0.000081777885, z: -0.000009057146, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: mario_ShoulderR
+      parentName: 
+      position: {x: -0.07999992, y: 0.009999997, z: -0.029999994}
+      rotation: {x: -0.49978083, y: -0.5002191, z: -0.49978083, w: 0.5002191}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: mario_ArmR1_dummy
+      parentName: 
+      position: {x: -0.13999976, y: -0.00000061035155, z: -0.000019669533}
+      rotation: {x: 1.2028046e-24, y: 1.3224977e-12, z: -9.094947e-13, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: mario_ArmR1
+      parentName: 
+      position: {x: -0, y: 0, z: -0.0000000023841857}
+      rotation: {x: -0.00048542, y: -0.000070235525, z: 0.0000025885126, w: 0.9999999}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: mario_ArmR2_dummy
+      parentName: 
+      position: {x: -0.15600006, y: -0.00000030517577, z: 0.0000000047683715}
+      rotation: {x: 3.6379786e-12, y: -9.58833e-12, z: -0.000000014544639, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_ArmR2
+      parentName: 
+      position: {x: -0, y: 0, z: -0.0000000023841857}
+      rotation: {x: 7.733219e-12, y: 0.0001437664, z: -0.00000002848537, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999998}
+    - name: mario_HandR_dummy
+      parentName: 
+      position: {x: -0.17999996, y: -0.00000015258789, z: 0.000000007152557}
+      rotation: {x: 0, y: 1.4988013e-12, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: mario_HandR
+      parentName: 
+      position: {x: 0.000000076293944, y: 0, z: 0}
+      rotation: {x: -0.5361912, y: -0.46087548, z: -0.5362773, w: 0.46097675}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999999}
+    - name: mario_HandR0
+      parentName: 
+      position: {x: 0.000018160343, y: -0.000068969726, z: -0.000016517639}
+      rotation: {x: -0.000049591843, y: 0.0000498287, z: 0.000015738093, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000002}
+    - name: mario_ShoulderL
+      parentName: 
+      position: {x: -0.08000015, y: 0.009999997, z: 0.03}
+      rotation: {x: 0.49999985, y: 0.5000002, z: -0.49999985, w: 0.5000002}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_ArmL1_dummy
+      parentName: 
+      position: {x: -0.1399998, y: -0.000000076293944, z: -0.000000021457671}
+      rotation: {x: -0.000000002288715, y: 5.2379663e-12, z: 7.275958e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_ArmL1
+      parentName: 
+      position: {x: 0.000000019073486, y: 0.000000076293944, z: -0.0000000023841857}
+      rotation: {x: 0.00000062554426, y: 5.2379706e-12, z: 7.275954e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_ArmL2_dummy
+      parentName: 
+      position: {x: -0.15600008, y: -0.000000076293944, z: -0.0000000166893}
+      rotation: {x: -0.000000002288715, y: 4.406031e-12, z: 7.275958e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_ArmL2
+      parentName: 
+      position: {x: 0.000000038146972, y: 0.000000076293944, z: -0.0000000047683715}
+      rotation: {x: 1, y: -0.000000006900368, z: 0.00014400485, w: 0.00004796813}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: mario_HandL_dummy
+      parentName: 
+      position: {x: -0.17999996, y: -0.000000076293944, z: -0.000000019073486}
+      rotation: {x: 0, y: -1.0986767e-11, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: mario_HandL
+      parentName: 
+      position: {x: 0.000000038146972, y: -0.000000076293944, z: 0}
+      rotation: {x: 0.53561586, y: -0.4614749, z: 0.53599614, w: 0.46137267}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: mario_HandL0
+      parentName: 
+      position: {x: 0.000018234252, y: 0.00006950378, z: -0.000016555785}
+      rotation: {x: -0.0000021575433, y: -0.00022168277, z: -0.000053154075, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: mario_Hip
+      parentName: 
+      position: {x: -0, y: -0.01, z: 0.0000000047683715}
+      rotation: {x: 0.50000006, y: 0.499952, z: 0.49999994, w: 0.50004804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegL1_dummy
+      parentName: 
+      position: {x: -0.06999996, y: 0.02276722, z: -0.11499999}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegL1
+      parentName: 
+      position: {x: -0.000000038146972, y: 0.000000038146972, z: 0.000000019073486}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegL2_dummy
+      parentName: 
+      position: {x: -0.1972878, y: 0.000000038146972, z: 0.000000085830685}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegL2
+      parentName: 
+      position: {x: 0.000000019073486, y: 0, z: -0.000000009536743}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_FootL_dummy
+      parentName: 
+      position: {x: -0.14461227, y: 0.000032653807, z: 0.000000009536743}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_FootL
+      parentName: 
+      position: {x: 0.000000009536743, y: 0, z: 0}
+      rotation: {x: -0.00000018092179, y: 0.000000084206796, z: -0.6103069, w: 0.79216504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegR1_dummy
+      parentName: 
+      position: {x: -0.06999988, y: 0.02276722, z: 0.11500003}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegR1
+      parentName: 
+      position: {x: -0.000000038146972, y: 0.000000038146972, z: -0.000000009536743}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegR2_dummy
+      parentName: 
+      position: {x: -0.19728771, y: 0.000000038146972, z: 0.000000076293944}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_LegR2
+      parentName: 
+      position: {x: -0.000000038146972, y: 0, z: -0.000000019073486}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_FootR_dummy
+      parentName: 
+      position: {x: -0.14461224, y: 0.000032720563, z: 0.000000009536743}
+      rotation: {x: -1.9798308e-12, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_FootR
+      parentName: 
+      position: {x: -0.000000038146972, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.00000018092179, y: 0.000000084206796, z: -0.6103069, w: 0.79216504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_PartsControl_dummy
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mario_PartsControl
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.00000008742278, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
